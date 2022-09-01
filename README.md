@@ -6,3 +6,5 @@ creado anteriormente, y lo modifiqué para hacerlo más simple y eficiente.
 También es uno de mis primeros acercamientos a la Programación Orientada a Objetos, y
 aunque creo que puede mejorarse mucho más, aprendí mucho sobre el uso de clases, atributos,
 herencia, entre otros aspectos de este paradigma.
+Además del código, hay una carpeta llamada "exe" que puede descargarse y probar el recetario
+libremente.
